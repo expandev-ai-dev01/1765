@@ -1,1 +1,1 @@
-// Domain modules will be exported here as they are created
+export * from './movimentacao/_module';
